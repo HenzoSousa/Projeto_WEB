@@ -18,6 +18,8 @@ HTML5
 
 Este projeto foi desenvolvido sem o uso de frameworks ou CSS avançado, com foco no aprendizado da estrutura fundamental do HTML.
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 📩 To-DO List - Projeto Web
 
 Este projeto consiste no desenvolvimento de uma to-do list utilizando HTML, CSS e JavaScript, criado com o objetivo de gerenciar tarefas.
