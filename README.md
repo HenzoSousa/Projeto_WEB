@@ -30,3 +30,17 @@ O projeto, funciona como um pequeno gerenciamento de tarefas, consistindo na org
 
 HTML5, CSS, JavaScript
 
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+ 🛒 E-commerce - Cafeteria Ivy's coffee shop - Projeto Web]
+
+Este projeto consiste no desenvolvimento de uma pagina E-commerce simulando uma cafeteria chamada "Ivy's coffee shop", criado com o objetivo de fazer a compra de um produto, e ir direto para o carrinho de compras, assim fazendo a soma, o total de itens comprados. 
+
+Um pequeno E-commerce com a seleção dos produtos, soma de cada produto, a junção de diversos produtos em um carrinho só, ele faz parte do processo de estudos do JavaScript.
+
+🛠️ Tecnologias Utilizadas
+
+HTML5, CSS, JavaScript.
+
+
+
