@@ -36,32 +36,32 @@ O projeto foi desenvolvido utilizando:
 
 ---
 
-## ⚙️ Funcionalidades
+##Funcionalidades
 
 O **CRUD MUNDO** permite o gerenciamento de informações relacionadas a países, cidades e idiomas.
 
-###  Países
+### Países
 
 * Cadastrar países;
 * Consultar países;
 * Atualizar informações;
 * Excluir registros.
 
-###  Cidades
+### Cidades
 
 * Cadastrar cidades;
 * Consultar cidades;
 * Atualizar informações;
 * Excluir registros.
 
-###  Idiomas
+### Idiomas
 
 * Cadastrar idiomas;
 * Consultar idiomas;
 * Atualizar informações;
 * Excluir registros.
 
-###  Operações CRUD
+### Operações CRUD
 
 | Operação   | Função                           |
 | ---------- | -------------------------------- |
@@ -72,18 +72,18 @@ O **CRUD MUNDO** permite o gerenciamento de informações relacionadas a países
 
 ---
 
-##  Como Executar o Projeto
+## Como Executar o Projeto
 
 Para executar o projeto, é necessário possuir um ambiente capaz de executar **PHP** e **MySQL**.
 
-###  Pré-requisitos
+### Pré-requisitos
 
 * PHP;
 * MySQL;
 * Servidor web compatível com PHP;
 * Navegador web.
 
-###  Execução
+### Execução
 
 1. Baixe ou clone este repositório.
 
@@ -103,7 +103,7 @@ Para executar o projeto, é necessário possuir um ambiente capaz de executar **
 
 ---
 
-##  Desenvolvedores
+## Desenvolvedor
 
 Projeto desenvolvido por:
 
