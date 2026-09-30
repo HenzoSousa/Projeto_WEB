@@ -36,7 +36,7 @@ O projeto foi desenvolvido utilizando:
 
 ---
 
-##Funcionalidades
+## Funcionalidades
 
 O **CRUD MUNDO** permite o gerenciamento de informações relacionadas a países, cidades e idiomas.
 
